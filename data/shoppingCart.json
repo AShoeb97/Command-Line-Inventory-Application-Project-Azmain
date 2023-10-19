@@ -1,0 +1,32 @@
+[
+  {
+    "id": "3lx2z",
+    "name": "croissant",
+    "priceInCents": "1693",
+    "inStock": true
+  },
+  {
+    "id": "gqwft",
+    "name": "cheese danish",
+    "priceInCents": "377",
+    "inStock": true
+  },
+  {
+    "id": "g4zf2",
+    "name": "donut",
+    "priceInCents": "1163",
+    "inStock": true
+  },
+  {
+    "id": "vu4s6",
+    "name": "muffin",
+    "priceInCents": "1464",
+    "inStock": true
+  },
+  {
+    "id": "h5d57",
+    "name": "cake",
+    "priceInCents": "2332",
+    "inStock": true
+  }
+]
